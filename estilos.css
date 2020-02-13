@@ -1,5 +1,6 @@
 body{
     font-family: monospace;
     color: darkslateblue;
-    
+    font-style: oblique;
+    font-variant: inherit;
 }
