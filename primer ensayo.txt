@@ -7,3 +7,5 @@ jes jes
 
 en este cambio vamos a ver como funciona en checkout jeje
 
+voy a hacer un checkout al pasado y guardar esta version y volver al
+futuro
