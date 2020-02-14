@@ -1,0 +1,10 @@
+hola a todos estoy a prendiendo a usar un sitema de control de versiones llamado git
+
+la vaca lola tiene cabeza y tiene cola y hace muu jes jes
+
+AQUI van a ir otros cambios, voy a poner unos cuantos datos
+jes jes
+
+en este cambio vamos a ver como funciona en checkout jeje
+
+ahora vamos a probar lo que es el git rm
